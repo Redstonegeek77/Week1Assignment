@@ -19,7 +19,8 @@ public class PizzaCost {
         totalcost += (toppings * toppingprice);
         System.out.println("Your total cost for this pizza is: "
                 + "$" + totalcost);
-
+        System.out.println("I am full now");
+        System.out.println("This was done at home");
     }
 
 }
